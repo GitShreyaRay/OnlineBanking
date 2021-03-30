@@ -1,4 +1,4 @@
-package com.llcbank.llcbank;
+package com.onlinebanking.llcbank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

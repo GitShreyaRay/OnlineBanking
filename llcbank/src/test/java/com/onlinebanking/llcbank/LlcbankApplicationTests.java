@@ -1,4 +1,4 @@
-package com.llcbank.llcbank;
+package com.onlinebanking.llcbank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
